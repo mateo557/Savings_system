@@ -13,9 +13,10 @@ namespace Sistema_de_cuenta_de_ahorros.Controllers
         private readonly ITransactionServices _transactionService;
 
         public TransactionController(AppDbContext Contextdb, ITransactionServices transactionService)
-            {
-                _appDbContext = Contextdb;
-            }
+        {
+            _appDbContext = Contextdb;
+            _transactionService = transactionService;
+        }
 
 
         [HttpGet()]

@@ -86,8 +86,7 @@
               "RelativeToolTip": "CuentaAhorros\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-26T02:23:28.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T02:23:28.742Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "CuentaAhorros\\Services\\TransactionServices.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:32:33.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:32:33.761Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "CuentaAhorros\\DTOs\\GetTransactionsDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:28:27.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:28:27.908Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "CuentaAhorros\\DTOs\\PostDepositDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:21:37.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:21:37.085Z"
             },
             {
               "$type": "Document",
@@ -134,9 +130,9 @@
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "CuentaAhorros\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "CuentaAhorros\\Controllers\\TransactionController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAjwA4AAABRAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Controllers\\TransactionController.cs*",
+              "RelativeToolTip": "CuentaAhorros\\Controllers\\TransactionController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T00:09:12.487Z",
               "EditorCaption": ""
@@ -151,8 +147,7 @@
               "RelativeToolTip": "CuentaAhorros\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T01:50:04.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T01:50:04.325Z"
             },
             {
               "$type": "Document",
@@ -162,7 +157,7 @@
               "RelativeDocumentMoniker": "CuentaAhorros\\Program.cs",
               "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Program.cs",
               "RelativeToolTip": "CuentaAhorros\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T01:50:05.129Z",
               "EditorCaption": ""
@@ -177,8 +172,7 @@
               "RelativeToolTip": "CuentaAhorros\\Infrastructure\\Modelo\\Transaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:22:23.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:22:23.221Z"
             },
             {
               "$type": "Document",
@@ -190,8 +184,7 @@
               "RelativeToolTip": "CuentaAhorros\\DTOs\\GetBalanceDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:51:21.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:51:21.209Z"
             },
             {
               "$type": "Document",
@@ -203,8 +196,7 @@
               "RelativeToolTip": "CuentaAhorros\\Infrastructure\\Modelo\\Balance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:56:07.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:56:07.824Z"
             },
             {
               "$type": "Document",
@@ -216,8 +208,7 @@
               "RelativeToolTip": "CuentaAhorros\\Services\\ITransactionServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:32:50.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:32:50.319Z"
             },
             {
               "$type": "Document",
@@ -229,8 +220,7 @@
               "RelativeToolTip": "CuentaAhorros\\DTOs\\PostWithdrawDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T00:19:25.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T00:19:25.332Z"
             }
           ]
         },

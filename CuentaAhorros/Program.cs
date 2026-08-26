@@ -25,8 +25,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 // 2. BUILD
+
 builder.Services.AddScoped<ITransactionServices, TransactionServices>();
 var app = builder.Build();
+
 
 // 3. MIDDLEWARES & RUTAS
 if (app.Environment.IsDevelopment())
@@ -40,6 +42,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 // 4. EJECUCIÓN
-app.Run("http://localhost:8081");
+app.Run();
+//app.Run("http://localhost:8081");
 
 
