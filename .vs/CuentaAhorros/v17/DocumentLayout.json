@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\dtos\\getbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\dtos\\getbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\infrastructure\\modelo\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\infrastructure\\modelo\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\infrastructure\\modelo\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\infrastructure\\modelo\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\services\\itransactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\services\\itransactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\dtos\\gettransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\dtos\\gettransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\dtos\\postdepositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\dtos\\postdepositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\cuentaahorros\\cuentaahorros\\dtos\\postwithdrawdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083FAC5E-5E9E-09CE-0963-0457E3F8516E}|CuentaAhorros\\CuentaAhorros.csproj|solutionrelative:cuentaahorros\\dtos\\postwithdrawdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\appsettings.json",
+              "RelativeDocumentMoniker": "CuentaAhorros\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\appsettings.json",
+              "RelativeToolTip": "CuentaAhorros\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T02:23:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Services\\TransactionServices.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\Services\\TransactionServices.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Services\\TransactionServices.cs",
+              "RelativeToolTip": "CuentaAhorros\\Services\\TransactionServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:32:33.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetTransactionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\GetTransactionsDTO.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\DTOs\\GetTransactionsDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\GetTransactionsDTO.cs",
+              "RelativeToolTip": "CuentaAhorros\\DTOs\\GetTransactionsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:28:27.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostDepositDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\PostDepositDTO.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\DTOs\\PostDepositDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\PostDepositDTO.cs",
+              "RelativeToolTip": "CuentaAhorros\\DTOs\\PostDepositDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:21:37.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "CuentaAhorros\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAjwA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:09:12.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\WeatherForecast.cs",
+              "RelativeToolTip": "CuentaAhorros\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:50:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Program.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Program.cs",
+              "RelativeToolTip": "CuentaAhorros\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T01:50:05.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "RelativeToolTip": "CuentaAhorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:22:23.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetBalanceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\GetBalanceDTO.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\DTOs\\GetBalanceDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\GetBalanceDTO.cs",
+              "RelativeToolTip": "CuentaAhorros\\DTOs\\GetBalanceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:51:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Infrastructure\\Modelo\\Balance.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\Infrastructure\\Modelo\\Balance.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Infrastructure\\Modelo\\Balance.cs",
+              "RelativeToolTip": "CuentaAhorros\\Infrastructure\\Modelo\\Balance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:56:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Services\\ITransactionServices.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\Services\\ITransactionServices.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\Services\\ITransactionServices.cs",
+              "RelativeToolTip": "CuentaAhorros\\Services\\ITransactionServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:32:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostWithdrawDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\PostWithdrawDTO.cs",
+              "RelativeDocumentMoniker": "CuentaAhorros\\DTOs\\PostWithdrawDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\CuentaAhorros\\CuentaAhorros\\DTOs\\PostWithdrawDTO.cs",
+              "RelativeToolTip": "CuentaAhorros\\DTOs\\PostWithdrawDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T00:19:25.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

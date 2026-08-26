@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\services\\dtos\\gettransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\services\\dtos\\gettransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\services\\dtos\\getbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\services\\dtos\\getbalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\infrastructure\\modelo\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\infrastructure\\modelo\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\infrastructure\\modelo\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\infrastructure\\modelo\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\services\\dtos\\posttransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\services\\dtos\\posttransactionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|c:\\users\\mateo\\escritorio\\practicas\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros\\sistema de cuenta de ahorros.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31F50081-BD76-4F2A-9500-FE19E083CEE6}|Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.csproj|solutionrelative:sistema de cuenta de ahorros\\sistema de cuenta de ahorros.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Balance.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Balance.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Balance.cs",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Balance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T21:52:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetBalanceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Services\\DTOs\\GetBalanceDTO.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Services\\DTOs\\GetBalanceDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Services\\DTOs\\GetBalanceDTO.cs",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Services\\DTOs\\GetBalanceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T21:52:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Controllers\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Controllers\\TransaccionesController.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Controllers\\TransaccionesController.cs*",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Controllers\\TransaccionesController.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T18:44:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sistema de cuenta de ahorros.http",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.http",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.http",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.http",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-25T20:58:13.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Infrastructure\\Modelo\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T18:44:40.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTransactionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Services\\DTOs\\GetTransactionsDTO.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Services\\DTOs\\GetTransactionsDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Services\\DTOs\\GetTransactionsDTO.cs*",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Services\\DTOs\\GetTransactionsDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T18:42:22.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T18:48:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Program.cs",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T18:35:10.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostTransactionsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Services\\DTOs\\PostTransactionsDTO.cs",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Services\\DTOs\\PostTransactionsDTO.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Services\\DTOs\\PostTransactionsDTO.cs",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Services\\DTOs\\PostTransactionsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T19:02:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T20:37:19.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\appsettings.json",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\appsettings.json",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T20:30:45.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sistema de cuenta de ahorros\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mateo\\Escritorio\\Practicas\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\Sistema de cuenta de ahorros\\appsettings.Development.json",
+              "RelativeToolTip": "Sistema de cuenta de ahorros\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T18:18:08.651Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

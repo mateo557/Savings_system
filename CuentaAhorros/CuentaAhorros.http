@@ -1,0 +1,6 @@
+@Sistema_de_cuenta_de_ahorros_HostAddress = http://localhost:5038
+
+GET {{Sistema_de_cuenta_de_ahorros_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

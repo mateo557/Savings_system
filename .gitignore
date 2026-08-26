@@ -1,0 +1,12 @@
+# Frontend
+node_modules/
+dist/
+build/
+.vscode/
+.env
+
+# Backend .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
