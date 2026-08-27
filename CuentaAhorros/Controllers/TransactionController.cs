@@ -13,12 +13,13 @@ namespace Sistema_de_cuenta_de_ahorros.Controllers
         private readonly ITransactionServices _transactionService;
 
         public TransactionController(AppDbContext Contextdb, ITransactionServices transactionService)
-            {
-                _appDbContext = Contextdb;
-            }
+        {
+            _appDbContext = Contextdb;
+            _transactionService = transactionService;
+        }
 
 
-        [HttpGet()]
+        [HttpGet("Consulta")]
         public async Task<IActionResult> GetTransaction()
         {
             // A. Consultar la tabla en la base de datos de forma asíncrona
@@ -58,6 +59,29 @@ namespace Sistema_de_cuenta_de_ahorros.Controllers
             {
                   
                 var result = _transactionService.Deposit(request);
+
+                // Retorna HTTP 200 OK con el GetBalanceDTO resultante
+                return Ok(result);
+            }
+            catch (ArgumentException ex)
+            {
+                // Si el monto es <= 0, retorna HTTP 400 Bad Request con el mensaje de error
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (System.Exception ex)
+            {
+                // Para cualquier otro error inesperado, retorna HTTP 500
+                return StatusCode(500, new { message = "Error interno del servidor", detail = ex.Message });
+            }
+        }
+
+        [HttpPost("retiro")]
+        public IActionResult Wirhdraw(PostwithdrawDTO request)
+        {
+            try
+            {
+
+                var result = _transactionService.Withdraw(request);
 
                 // Retorna HTTP 200 OK con el GetBalanceDTO resultante
                 return Ok(result);
