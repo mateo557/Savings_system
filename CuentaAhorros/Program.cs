@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sistema_de_cuenta_de_ahorros.Infrastructure.Context;
 using Sistema_de_cuenta_de_ahorros.Services;
@@ -25,6 +26,25 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
 // 2. BUILD
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.InvalidModelStateResponseFactory = context =>
+    {
+        var errores = context.ModelState
+            .Where(e => e.Value.Errors.Count > 0)
+            .Select(e => new
+            {
+                //campo = e.Key,
+                mensaje = "El valor ingresado debe ser númerico."
+            });
+
+        return new BadRequestObjectResult(new
+        {
+            message = "Datos inválidos el valor ingresado debe ser númerico.",
+            //errores
+        });
+    };
+});
 builder.Services.AddScoped<ITransactionServices, TransactionServices>();
 var app = builder.Build();
 
@@ -40,6 +60,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 // 4. EJECUCIÓN
-app.Run("http://localhost:8081");
+app.Run();
+//app.Run("http://localhost:8081");
 
 
